@@ -1,0 +1,21 @@
+header {
+    background-color: rgb(135, 232, 245);
+    font-size: 50px;
+    font-family: monospace;
+  }
+
+nav {
+    background-color: rgb(226, 94, 226);
+  }
+
+#nav-button {
+    background-color: rgb(204, 79, 204);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+body {
+    background-color: rgb(230, 173, 230);
+  }
+
+
