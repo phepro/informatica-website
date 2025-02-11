@@ -1,21 +1,42 @@
 header {
-    background-color: rgb(135, 232, 245);
+    background-color: rgb(0, 0, 0);
+    color: white;
     font-size: 50px;
     font-family: monospace;
   }
 
 nav {
-    background-color: rgb(226, 94, 226);
+    background-color: rgb(168, 168, 168);
   }
 
 #nav-button {
-    background-color: rgb(204, 79, 204);
+  background-color: rgb(100, 100, 100);
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
   }
 
 body {
-    background-color: rgb(230, 173, 230);
+    background-color: rgb(255, 255, 255);
   }
 
+
+a:link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
 
