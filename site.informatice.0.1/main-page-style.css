@@ -1,24 +1,28 @@
 header {
     background-color: rgb(0, 0, 0);
     color: white;
-    font-size: 50px;
-    font-family: monospace;
+    font-size: 3.125em;
+    font-family: Courier, monospace;
   }
 
 nav {
     background-color: rgb(168, 168, 168);
+    font-size: 1.875em;
   }
 
 #nav-button {
-  background-color: rgb(100, 100, 100);
-    font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(100, 100, 100);
+    font-family: Courier, monospace;
   }
 
 body {
     background-color: rgb(255, 255, 255);
   }
 
+aside{
+    float:right;
+    background-color: rgb(219, 219, 219);
+  }
 
 a:link {
   color: rgb(255, 255, 255);
